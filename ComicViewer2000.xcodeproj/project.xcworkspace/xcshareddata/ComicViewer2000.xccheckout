@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37AE809D-9898-4E5B-A035-279EE486B9A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ComicViewer2000</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</key>
+		<string>https://github.com/dare2095/ComicViewer2000.git</string>
+		<key>90253A291F98581A965822480B0AB4E0F4016936</key>
+		<string>https://github.com/nsparks/Narrable-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ComicViewer2000.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</key>
+		<string>../..</string>
+		<key>90253A291F98581A965822480B0AB4E0F4016936</key>
+		<string>../../../Narrable-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dare2095/ComicViewer2000.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ComicViewer2000</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90253A291F98581A965822480B0AB4E0F4016936</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Narrable-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
