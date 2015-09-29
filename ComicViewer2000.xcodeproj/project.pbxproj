@@ -179,8 +179,8 @@
 				15EE3AAF1BB8A08B0071A5C1 /* AFNetworking */,
 			);
 			name = Networking;
-			path = "../../../Narrable-iOS/Narrable-iOS/Networking";
-			sourceTree = "<group>";
+			path = ComicViewer2000/Networking;
+			sourceTree = SOURCE_ROOT;
 		};
 		15EE3AAF1BB8A08B0071A5C1 /* AFNetworking */ = {
 			isa = PBXGroup;
@@ -205,8 +205,9 @@
 				15EE3AC11BB8A08B0071A5C1 /* AFURLSessionManager.h */,
 				15EE3AC21BB8A08B0071A5C1 /* AFURLSessionManager.m */,
 			);
-			path = AFNetworking;
-			sourceTree = "<group>";
+			name = AFNetworking;
+			path = ComicViewer2000/Networking/AFNetworking;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
