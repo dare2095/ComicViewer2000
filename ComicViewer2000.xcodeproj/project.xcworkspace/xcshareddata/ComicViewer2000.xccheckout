@@ -12,8 +12,6 @@
 	<dict>
 		<key>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</key>
 		<string>https://github.com/dare2095/ComicViewer2000.git</string>
-		<key>90253A291F98581A965822480B0AB4E0F4016936</key>
-		<string>https://github.com/nsparks/Narrable-iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ComicViewer2000.xcodeproj</string>
@@ -21,8 +19,6 @@
 	<dict>
 		<key>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</key>
 		<string>../..</string>
-		<key>90253A291F98581A965822480B0AB4E0F4016936</key>
-		<string>../../../Narrable-iOS</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/dare2095/ComicViewer2000.git</string>
@@ -39,14 +35,6 @@
 			<string>407E233DFF4D11E9FEE1F621E0E7AE3AB88D0BC3</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ComicViewer2000</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>90253A291F98581A965822480B0AB4E0F4016936</string>
-			<key>IDESourceControlWCCName</key>
-			<string>Narrable-iOS</string>
 		</dict>
 	</array>
 </dict>
